@@ -53,7 +53,7 @@ npm start
 
 ## 🧑‍💻 Author
 
-Developed by **[Your Name]**
+Developed by **Metin Aktaş**
 
 ---
 
