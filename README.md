@@ -25,7 +25,11 @@ A fully **responsive real-time chat application** built with modern web technolo
 
 Below is a GIF showcasing the project:
 
-![Project Preview](./path-to-your-gif.gif)
+
+
+https://github.com/user-attachments/assets/bea5efea-9b44-40af-b653-8b66b0428db8
+
+
 
 > Note: Replace the GIF path with your actual file location.
 
@@ -38,34 +42,7 @@ npm install
 npm start
 ```
 
-## 🔥 Firebase Setup
 
-1. Go to Firebase Console and create a new project
-2. Enable Authentication (Email/Password)
-3. Create a Firestore Database
-4. Add your Firebase config to the project
-
-```js
-// firebaseConfig.js
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
-};
-```
-
-## 📂 Project Structure (Optional)
-
-```bash
-src/
-│── components/
-│── pages/
-│── firebase/
-│── styles/
-```
 
 ## 📎 Future Improvements
 
